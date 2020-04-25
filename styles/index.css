@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;700;900&display=swap');
+
+::selection {
+    @apply bg-green-200;
+}
+::-moz-selection {
+    @apply bg-green-200;
+}
+
+.intro-text {
+    width: 360px;
+}
+
+@screen sm {
+    .intro-text {
+        width: 490px;
+    }
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Inter', sans-serif;
+}
