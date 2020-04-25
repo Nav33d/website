@@ -2,7 +2,7 @@ import Head from 'next/head'
 
 export const Layout: React.FC = ( { children } ) => {
     return (
-        <main className="h-screen bg-white text-black py-2">
+        <main className="h-screen bg-white text-black">
             <Head>
                 <title>Naveed Ziarab | Software Engineer</title>
                 <meta name="description" content="Software engineer based in Birmingham, UK. ReactJS, React Native, Next.js, Tailwind CSS and Laravel PHP" />

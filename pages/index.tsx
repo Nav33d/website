@@ -6,7 +6,7 @@ import { Layout, SocialLinks, TechStack } from '../components'
 const Index: React.FC = () => {
     return (
         <Layout>
-            <section className="h-screen flex flex-col justify-center items-center px-2">
+            <section className="h-screen flex flex-col justify-center items-center p-2">
                 <h1 className="font-black text-4xl sm:text-6xl tracking-wide mb-2">
                     Hi, it&apos;s Naveed
                 </h1>
