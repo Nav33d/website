@@ -22,6 +22,9 @@ class MyDocument extends Document {
                     <meta name="twitter:description" content="Software engineer based in Birmingham, UK. ReactJS, React Native, Next.js, Tailwind CSS and Laravel PHP" />
                     <meta name="twitter:title" content="Naveed Ziarab - Software engineer" />
                     <meta name="twitter:domain" content="Naveed Ziarab" />
+
+                    <link rel="preconnect" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;700;900&display=swap" />
+                    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;700;900&display=swap" rel="stylesheet" />
                 </Head>
                 <body>
                     <Main />

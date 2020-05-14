@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;700;900&display=swap');
-
 ::selection {
     @apply bg-green-200;
 }
